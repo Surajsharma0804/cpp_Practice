@@ -10,7 +10,7 @@ int main(){
     temp = a;
     a = b;
     b = temp;
-    cout << "Result after swapping: " << a << endl;
-    cout << "Result after swapping: " << b;
+    cout << "Result after swapping of a is: " << a << endl;
+    cout << "Result after swapping of b is: " << b;
     return 0;
 }
